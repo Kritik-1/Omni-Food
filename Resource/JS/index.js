@@ -67,3 +67,5 @@ $('a[href*="#"]')
 
 
 // my file
+
+//everything is new
